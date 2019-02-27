@@ -18,3 +18,46 @@ Select Multiple Cells:
 Shift + J or Shift + Down selects the next sell in a downwards direction. You can also select sells in an upwards direction by using Shift + K or Shift + Up.
 Once cells are selected, you can then delete / copy / cut / paste / run them as a batch. This is helpful when you need to move parts of a notebook.
 You can also use Shift + M to merge multiple cells.
+
+
+- The triple quotes are used to span the string across multiple lines. For example, all the following are legal-```
+word = 'word'sentence = "This is a sentence."paragraph = """This is a paragraph. It ismade up of multiple lines and sentences."""
+
+```
+
+> >  ss
+> > 
+> > 
+> > 
+
+
+
+- Python does not have multiple-line commenting feature. You have to comment each line individually as follows-
+
+*s*
+`
+dsds **
+
+1. 1. ![]()
+
+
+
+1. ss
+2. dssds
+`
+
+
+`	# This is a comment.	# This is a comment, too.	# This is a comment, too.	# I said that already.	`
+	
+[]()
+
+
+`sdsd`
+
+
+```
+
+```
+
+
+	
